@@ -47,7 +47,3 @@ Este repositório contém a resolução do Desafio 1 da Atividade 3, que consist
 ## 🌐 Link para Acessar o Trabalho
 Para testar o projeto localmente (com o servidor Apache/XAMPP ativo), acesse:
 [http://localhost/php-exemplos-basicos/Assunto_3/5a_desafio1.php](http://localhost/php-exemplos-basicos/Assunto_3/5a_desafio1.php)
-
-## 🛠️ Tecnologias Utilizadas
-* **HTML5** — Estruturação do formulário.
-* **PHP** — Lógica de validação e manipulação de arquivos (geração de log).
